@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```
-   git clone https://github.com/sarkartanmay393/compound-finance-market-clone.git
+   git clone https://github.com/bhuvaneshwar9/averex.git
    ```
 
 2. Navigate to the project directory:
