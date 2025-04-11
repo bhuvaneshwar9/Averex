@@ -1,6 +1,6 @@
-# Compound Finance Market Clone
+# Averex
 
-This project is a clone of the market page of the Compound Finance website. It aims to replicate the functionality and design of the original page. You can view the live version of the project [here](https://compound-finance-clone-ij1pf64vy-sarkartanmay393.vercel.app/).
+This project is a clone of the market page of the Compound Finance website. It aims to replicate the functionality and design of the original page. 
 
 ## Project Overview
 
