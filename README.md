@@ -76,6 +76,4 @@ If you wish to contribute to this project, please follow these guidelines:
 5. Commit your changes and push them to your forked repository.
 6. Submit a pull request, clearly describing the changes you have made.
 
-## Contact Information
 
-If you have any questions or suggestions regarding the project, please feel free to reach out to me through my GitHub account: [github.com/sarkartanmay393](https://github.com/sarkartanmay393).
