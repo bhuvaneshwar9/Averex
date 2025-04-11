@@ -29,7 +29,7 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd CompoundFinance-Clone
+   cd averex
    ```
 
 3. Run these following commands:
